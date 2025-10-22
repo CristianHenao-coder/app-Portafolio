@@ -111,6 +111,7 @@ const Products = () => {
                 transition-colors duration-300 → transición de color suave (0.3s).
                 cursor-pointer → muestra el cursor de mano interactiva.
               */}
+              
             </div>
           ))}
         </div>
