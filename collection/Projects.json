@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Página Web Multired",
+    "description": "SystemBreak es una plataforma que permite controlar y administrar computadores de manera remota a través de una conexión de red segura. Fue desarrollada con Python, HTML, CSS y FastAPI para garantizar velocidad y estabilidad en la comunicación entre dispositivos.",
+    "image": "/images/projects/multired.png",
+    "link": "https://multired-demo.com",
+    "tags": ["Python", "FastAPI", "HTML", "CSS", "Networking"]
+  },
+  {
+    "title": "Coffee Landing Page",
+    "description": "Diseñé una landing page moderna para una marca de café artesanal. El sitio combina animaciones suaves, una sección de catálogo interactiva y un formulario de pedidos integrado. Desarrollado con Next.js y TailwindCSS, priorizando la experiencia de usuario y la carga rápida.",
+    "image": "/images/projects/coffee.png",
+    "link": "https://coffee-demo.com",
+    "tags": ["Next.js", "TailwindCSS", "UX/UI", "Responsive Design"]
+  },
+  {
+    "title": "Chatbot Inteligente",
+    "description": "Desarrollé un chatbot para atención al cliente con integración a WhatsApp, Instagram y sitios web. Utiliza inteligencia artificial para responder preguntas frecuentes, agendar citas y ofrecer soporte en tiempo real. Backend creado con Node.js y Express, conectado a una base de datos MongoDB.",
+    "image": "/images/projects/chatbot.png",
+    "link": "https://chatbot-demo.com",
+    "tags": ["Node.js", "Express", "MongoDB", "AI", "Automation"]
+  },
+  {
+    "title": "E-commerce Full Stack",
+    "description": "Proyecto de tienda en línea completo con carrito de compras, pasarela de pago y panel administrativo. Desarrollado con Next.js, TypeScript y MongoDB. Incluye autenticación segura y un sistema de gestión de productos, usuarios y pedidos.",
+    "image": "/images/projects/ecommerce.png",
+    "link": "https://ecommerce-demo.com",
+    "tags": ["Next.js", "TypeScript", "MongoDB", "Stripe", "Full Stack"]
+  }
+]
